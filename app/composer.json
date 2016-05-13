@@ -1,0 +1,5 @@
+    "autoload": {
+        "classmap": [
+            "database",
+            "app/Helpers"
+        ],
